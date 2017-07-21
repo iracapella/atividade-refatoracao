@@ -1,0 +1,66 @@
+/* Reset */
+body {
+	padding: 20px;
+}
+/* Modify */
+.modal-tema .modal-header{
+	padding: 2rem;
+}
+
+.btn-outline-success, .btn-info, .btn-success, .btn-warning, .btn-danger{
+    cursor: pointer;    
+}
+
+.btn-outline-success{    
+    border-radius: 0;    
+}
+
+.modal-modelo .modal-header{
+	padding: 25px;
+}
+
+.modal-modelo .modal-header .close{
+    position: absolute;
+    top: 10px;
+    right: 10px;    
+}
+
+.modal-modelo .modal-header .modal-title{      
+    width: 100%;
+    text-align: center;        
+}
+
+.modal-modelo .modal-body{
+    text-align: center;
+}
+
+.modal-modelo .modal-footer{
+    border-top: 0;
+    padding-bottom: 2rem;
+    justify-content: center;
+}
+
+
+
+
+
+
+/* Style */
+.modal-tema.modal-warning .modal-header{
+	background-color: #e67e22;		
+}
+.modal-tema.modal-success .modal-header{
+	background-color: #27ae60;		
+}
+.modal-tema.modal-danger .modal-header{
+	background-color: #c0392b;		
+}
+.modal-tema .modal-header .modal-title,
+.modal-tema .modal-header .close{
+color: #fff;
+}				
+
+						
+	
+
+	

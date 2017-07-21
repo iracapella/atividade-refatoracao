@@ -1,0 +1,22 @@
+{
+  "name": "Refactoring",
+  "description": "Refactoring",
+  "main": "index.js",
+  "authors": [
+    "Iradson Bomfim dos Santos"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  }
+}
